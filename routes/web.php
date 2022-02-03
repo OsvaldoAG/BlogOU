@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/inicio', function () {
+Route::get('/', function () {
     return view('BlogUO.index');
 })->name('inicio');
 
