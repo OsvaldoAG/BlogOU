@@ -15,7 +15,7 @@
 
 					<!-- Logo -->
 						<div id="logo">
-							<span class="image avatar48"><img src="images/ImgPrincipal.jpeg" alt="150" while="" /></span>
+							<span class="image avatar48"><img src="images/LogoCarrera.png" alt="150" while="" /></span>
 							<h1 id="title">@yield('titulo') </h1>
 							<p>Por: Uriel y Osvaldo</p>
 						</div>
